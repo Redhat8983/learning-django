@@ -3,7 +3,9 @@ WORKDIR /myapp
 
 # set environment variables
 # do not place here  in production enviroment
-# TODO: Is posible to put superuser in dokcer-compose ?
+ENV PYTHONDONTWRITEBYTECODE 1
+ENV PYTHONUNBUFFERED 1
+# TODO: Is posible to put create superuser in dokcer-compose ?
 ENV DJANGO_DB_NAME=default
 ENV DJANGO_SU_NAME=admin
 ENV DJANGO_SU_EMAIL=admin@examle.com
