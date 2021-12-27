@@ -13,3 +13,9 @@ Each chapter folder has learning path markdown file, which guild you through my 
 note:  
 Ch02 HelloWorld  
 Ch03 Pages App  
+-> Learn Django basic.
+
+Ch 04 posts  
+Ch 05 blog  
+-> Learn Models with database.  
+-> Learn Link muti-pages.  
