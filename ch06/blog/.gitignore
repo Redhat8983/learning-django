@@ -1,0 +1,7 @@
+# venv relate
+Pipfile
+Pipfile.lock
+.venv
+
+# data base
+db.sqlite3
