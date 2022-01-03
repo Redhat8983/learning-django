@@ -15,3 +15,4 @@ class Post(models.Model):
     
     def get_absolute_url(self):
         return reverse('post_detail', args=[str(self.id)])
+        # in urls.py we use path('post/<int:pk>/') whcih args will pass the id.
