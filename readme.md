@@ -15,7 +15,6 @@ Ch02 HelloWorld
 Ch03 Pages App  
 -> Learn Django basic.
 
-Ch 04 posts  
-Ch 05 blog  
--> Learn Models with database.  
--> Learn Link muti-pages.  
+Ch 04 posts -> Learn Models with database.  
+Ch 05 blog  -> Learn Link muti-pages.  
+Ch 06 Form  -> Learn Form with CRUD by app  
