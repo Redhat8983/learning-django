@@ -19,6 +19,7 @@ from django.urls.conf import include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('accounts/', include('django.contrib.auth.urls')), # to LogIn LogOut page
+    path('accounts/', include('django.contrib.auth.urls')), # Djangle auth class
+    path('accounts/', include('accounts.urls')),
     path('',include('blog.urls')),
 ]
