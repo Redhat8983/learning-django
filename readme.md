@@ -15,6 +15,8 @@ Each chapter folder has learning path file, which guild you through codes steps 
 
 ### Ch02 HelloWorld
 
+## Blog Project
+
 ### Ch03 Pages App
 
 * Django basic. MVT structure.
@@ -36,8 +38,17 @@ Each chapter folder has learning path file, which guild you through codes steps 
 
 ### Ch 07 User Accounts
 
-* Build LogIn LogOn and SignOn pages
+* Build LogIn LogOut and SignOn pages
+
+## News Paper Project
 
 ### Ch 08 Custom User
 
 * Extend build-in User fields on Django
+
+### Ch 09 User Authentication
+
+* Implement Log In, Log Out, Sign On with CustomUser Form
+* Build User App with MVT
+
+
