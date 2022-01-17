@@ -51,4 +51,8 @@ Each chapter folder has learning path file, which guild you through codes steps 
 * Implement Log In, Log Out, Sign On with CustomUser Form
 * Build User App with MVT
 
+### Ch 10 Bootstrap
 
+* Write user app Test
+* Use Bootstrap
+* Use django-crispy-forms to Custom modify forms
