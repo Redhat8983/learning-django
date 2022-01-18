@@ -48,8 +48,9 @@ Each chapter folder has learning path file, which guild you through codes steps 
 
 ### Ch 09 User Authentication
 
-* Implement Log In, Log Out, Sign On with CustomUser Form
-* Build User App with MVT
+* Implement Log In, Log Out, Sign On pages
+* Custom users/forms.py to set parameters with custome fields
+* Understand How admin and regular users in Django
 
 ### Ch 10 Bootstrap
 
