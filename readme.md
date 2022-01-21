@@ -57,3 +57,9 @@ Each chapter folder has learning path file, which guild you through codes steps 
 * Write user app Test
 * Use Bootstrap
 * Use django-crispy-forms to Custom modify forms
+
+### Ch 11 Password Change and reset
+
+* Complete Authorization flow
+* Costum "Password Change" and "Password Reset" pages
+* Build-email method for "Password Reset"
