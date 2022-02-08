@@ -45,7 +45,7 @@ class ArticleDeleteView( LoginRequiredMixin ,DeleteView):
 class ArticleCreateView( LoginRequiredMixin ,CreateView):
     model = Article
     template_name = "article_new.html"
-    fields = ( 'title', 'body')
+    fields = ('title', 'body')
     login_url = 'login'
 
     def form_valid(self, form):
