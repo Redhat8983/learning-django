@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+asgiref = "==3.4.1"
+sqlparse = "==0.4.2"
+Django = "==4.0.1"
+django-crispy-forms = "==1.13.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

@@ -1,6 +1,4 @@
 # venv relate
-Pipfile
-Pipfile.lock
 .venv
 venv
 
