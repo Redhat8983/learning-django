@@ -63,3 +63,7 @@ Each chapter folder has learning path file, which guild you through codes steps 
 * Complete Authorization flow
 * Costum "Password Change" and "Password Reset" pages
 * Build-email method for "Password Reset"
+
+### Ch 12
+
+* Todo
